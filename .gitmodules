@@ -1,0 +1,3 @@
+[submodule "git-test-child"]
+	path = git-test-child
+	url = https://github.com/NiceGuyIT/git-test-child/
